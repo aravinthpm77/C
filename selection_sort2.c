@@ -24,7 +24,7 @@ int main(){
         }
 
     }
-    printf("hello Dude");
+    printf("Hello Dude");
     printf("Swapped List");
     printf("\n");
     for(i=0;i<a;i++){
